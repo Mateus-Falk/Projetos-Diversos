@@ -1,0 +1,11 @@
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\bin\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.exe.config
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\bin\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.exe
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\bin\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.pdb
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.csproj.AssemblyReference.cache
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.csproj.SuggestedBindingRedirects.cache
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.Form1.resources
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.Properties.Resources.resources
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.csproj.GenerateResource.cache
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.csproj.CoreCompileInputs.cache
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.exe
+C:\ProjetosDiversos\ProjetoBancoDeSangue\src\ProjetosDiversos.ProjetoBancoDeSangue.Main\obj\Debug\ProjetosDiversos.ProjetoBancoDeSangue.Main.pdb
